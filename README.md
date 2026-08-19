@@ -240,8 +240,8 @@ Run the cells top to bottom — the notebook fetches **live** reviews from the P
 
 ## 👤 Author
 
-**Namrata Nayak**
-B.Tech · Electronics and Communication Engineering · NIT Silchar
+**Nihar Das**
+B.Tech · Electrical Engineering · NIT Silchar
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://namratakrishna.wixsite.com/namrata-nayak)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/namrata-nayak)
