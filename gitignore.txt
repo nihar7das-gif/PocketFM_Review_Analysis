@@ -1,0 +1,10 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+venv/
+.env
+
+# Raw/large scraped data (regenerate via notebook instead of committing)
+pocketfm_reviews_raw.csv
+pocketfm_reviews_cleaned.csv
