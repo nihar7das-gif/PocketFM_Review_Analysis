@@ -243,9 +243,6 @@ Run the cells top to bottom — the notebook fetches **live** reviews from the P
 **Nihar Das**
 B.Tech · Electrical Engineering · NIT Silchar
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://namratakrishna.wixsite.com/namrata-nayak)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/namrata-nayak)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TechNamrata)
 
 <br/>
 
